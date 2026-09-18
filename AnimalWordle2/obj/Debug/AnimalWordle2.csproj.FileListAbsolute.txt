@@ -5,3 +5,10 @@ C:\Users\jack_\source\repos\AnimalWordle2\AnimalWordle2\bin\Debug\AnimalWordle2.
 C:\Users\jack_\source\repos\AnimalWordle2\AnimalWordle2\bin\Debug\AnimalWordle2.pdb
 C:\Users\jack_\source\repos\AnimalWordle2\AnimalWordle2\obj\Debug\AnimalWordle2.exe
 C:\Users\jack_\source\repos\AnimalWordle2\AnimalWordle2\obj\Debug\AnimalWordle2.pdb
+C:\Users\jack_\source\repos\AnimalWordle2\AnimalWordle\AnimalWordle2\bin\Debug\AnimalWordle2.exe.config
+C:\Users\jack_\source\repos\AnimalWordle2\AnimalWordle\AnimalWordle2\bin\Debug\AnimalWordle2.exe
+C:\Users\jack_\source\repos\AnimalWordle2\AnimalWordle\AnimalWordle2\bin\Debug\AnimalWordle2.pdb
+C:\Users\jack_\source\repos\AnimalWordle2\AnimalWordle\AnimalWordle2\obj\Debug\AnimalWordle2.csproj.AssemblyReference.cache
+C:\Users\jack_\source\repos\AnimalWordle2\AnimalWordle\AnimalWordle2\obj\Debug\AnimalWordle2.csproj.CoreCompileInputs.cache
+C:\Users\jack_\source\repos\AnimalWordle2\AnimalWordle\AnimalWordle2\obj\Debug\AnimalWordle2.exe
+C:\Users\jack_\source\repos\AnimalWordle2\AnimalWordle\AnimalWordle2\obj\Debug\AnimalWordle2.pdb
